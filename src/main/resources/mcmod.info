@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "chatmate",
+    "name": "ChatMate",
+    "description": "Keeps track of the chat for you! Whether you're away from the keyboard, or overwhelmed with spam, ChatMate will bring you what is relevant!",
+    "version": "1.0",
+    "mcversion": "[1.8-1.11]",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "TheMadMillenium"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
